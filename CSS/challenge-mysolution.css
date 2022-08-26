@@ -1,0 +1,50 @@
+body{
+    /*margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px*/
+    /* Or */
+    margin: 0;
+    text-align: center;
+}
+h1{
+    margin: 0px;
+    position: relative;
+    top: 100px;
+}
+p{
+    position: relative;
+    top: 100px;
+}
+.top-container{
+    background-color: #E4F9F5;
+    height: 630px;
+    position: relative;
+}
+.middle-container{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+.bottom-container{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.pro{
+    text-decoration: underline;
+}
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    left: 800px;
+}
+.bottom-cloud{
+    position: absolute;
+    top: 200px;
+    left: 400px;
+}
+.mountain{
+    position: relative;
+    top:100px;
+}
